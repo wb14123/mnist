@@ -10,7 +10,7 @@ Forked from https://github.com/andresy/mnist , and modified:
 
 ## Installation ##
 
-torch-rocks install https://raw.github.com/wb14123/mnist/master/rocks/mnist-scm-1.rockspec
+luarocks install https://raw.github.com/wb14123/mnist/master/rocks/mnist-scm-1.rockspec
 
 ## Usage ##
 
